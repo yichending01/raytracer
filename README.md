@@ -2,6 +2,8 @@
 
 Welcome to my **Raytracer Project**&mdash;an exploration into the world of computer graphics, built from the ground up in C++! Using the [_Ray Tracing in One Weekend_](https://raytracing.github.io/books/RayTracingInOneWeekend.html) series as a starting point, I'm excited to expand upon the foundational concepts and push the boundaries with new features and optimizations as I learn more. Follow along as I delve deeper into the math, coding, and art of ray tracing!
 
+<img src="/example_images/image01.png" width=100%>
+
 ## Current Features
 
 This project currently supports a variety of features for simulating realistic materials, lighting, and camera effects. Below is a breakdown of the key components and their functionality, which form the foundation of the raytracing engine:
